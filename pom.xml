@@ -12,7 +12,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <hibernate.version>5.2.12.Final</hibernate.version>
+    <hibernate.version>5.3.20.Final</hibernate.version>
     <lombok.version>1.16.20</lombok.version>
     <postgresql.version>9.1-901-1.jdbc4</postgresql.version>
   </properties>
